@@ -1,4 +1,4 @@
-## Welcome to My Personal Page
+## 刘乔迈的又一博客
 
 This is cool, and I learned how to use Github to build a web page. I have another website of [John Mike](https://69mike.com), welcome to have a vist :).
 
@@ -9,7 +9,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-对于标题
+（对于标题，还是Markdown）
 
 # 我老大
 ## 我老二
